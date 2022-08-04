@@ -2,16 +2,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=limboinf" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=limboinf" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=limboinf" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=limboinf" height="200" alt="languages graph"  />
   
-  [![](https://activity-graph.herokuapp.com/graph?username=limboinf&theme=github)](https://activity-graph.herokuapp.com/graph?username=limboinf&theme=github)
+ 
 
 </div>
 
 ###
 
+<h3 align="left"> Favorites </h6>
+<hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
@@ -29,11 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="42" alt="twitter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
+  
+   [![](https://activity-graph.herokuapp.com/graph?username=limboinf&theme=github)](https://activity-graph.herokuapp.com/graph?username=limboinf&theme=github)
 </div>
 
 ###
 
-<h6 align="left">我是一个什么样的人？<br>1. ❤️开源爱好者<br>2. 😌目前从事大数据开发，微服务开发<br>3. 📚爱看书，什么都看的那种<br>4. 🤖爱刷推, youtube，鄙夷微博，百度之流</h6>
+<h6 align="left">我是一个什么样的人？<br>1. ❤️开源爱好者<br>2. 😌目前从事大数据开发，微服务开发<br>3. 📚爱看书和电影，什么都看的那种<br>4. 🤖爱刷推, youtube，鄙夷微博，百度之流</h6>
 
 ###
 
