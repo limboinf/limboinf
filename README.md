@@ -9,6 +9,7 @@
 - 🔭 12 年研发经验，现聚焦 **AI Agent 落地**：Agent Harness（Pi）· MCP & Skill 工程化 · LangChain / LangGraph
 - 🌱 从 0 到 1 搭建过高并发业务系统与数据平台
 - 🛠️ 独立开发多款 AI 产品：AI 模拟面试、AI 十万个为什么 · 有声绘本 🐰、AI 发型试戴（iOS）、Chrome 扩展等
+- 🗂️ 查看全部作品集 → [limbo101.win/#works](https://limbo101.win/#works)
 - ✍️ 输出 [**agent-dev-101**](https://github.com/limboinf/agent-dev-101)：55 天 AI Agent 学习计划，40+ 篇深度笔记
 - 🪪 Open to：AI Agent / 全栈 / 后端 → [pythonsuper@gmail.com](mailto:pythonsuper@gmail.com)
 
