@@ -54,8 +54,8 @@
   <a href="mailto:pythonsuper@gmail.com">
     <img src="https://img.shields.io/badge/Email-pythonsuper%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://x.com/Datalimbo" target="_blank">
-    <img src="https://img.shields.io/badge/X-%40Datalimbo-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/limbopeng" target="_blank">
+    <img src="https://img.shields.io/badge/X-%40limbopeng-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </div>
 
