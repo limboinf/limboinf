@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90">
+<style>@keyframes tw{0%,100%{opacity:.12}50%{opacity:.95}}.tw{animation-name:tw;animation-iteration-count:infinite}</style>
+<rect x="0" y="0" width="1000" height="90" fill="#0d1117"/>
+<g fill="#3a4150" opacity="0.35">
+<rect x="98" y="18" width="4" height="4"/>
+<rect x="258" y="18" width="4" height="4"/>
+<rect x="378" y="18" width="4" height="4"/>
+<rect x="418" y="18" width="4" height="4"/>
+<rect x="458" y="18" width="4" height="4"/>
+<rect x="498" y="18" width="4" height="4"/>
+<rect x="538" y="18" width="4" height="4"/>
+<rect x="578" y="18" width="4" height="4"/>
+<rect x="658" y="18" width="4" height="4"/>
+<rect x="698" y="18" width="4" height="4"/>
+<rect x="738" y="18" width="4" height="4"/>
+<rect x="898" y="18" width="4" height="4"/>
+<rect x="978" y="18" width="4" height="4"/>
+<rect x="18" y="58" width="4" height="4"/>
+<rect x="58" y="58" width="4" height="4"/>
+<rect x="98" y="58" width="4" height="4"/>
+<rect x="138" y="58" width="4" height="4"/>
+<rect x="178" y="58" width="4" height="4"/>
+<rect x="218" y="58" width="4" height="4"/>
+<rect x="378" y="58" width="4" height="4"/>
+<rect x="618" y="58" width="4" height="4"/>
+<rect x="658" y="58" width="4" height="4"/>
+<rect x="698" y="58" width="4" height="4"/>
+<rect x="738" y="58" width="4" height="4"/>
+<rect x="818" y="58" width="4" height="4"/>
+<rect x="858" y="58" width="4" height="4"/>
+<rect x="898" y="58" width="4" height="4"/>
+<rect x="938" y="58" width="4" height="4"/>
+</g><g>
+<rect x="17" y="17" width="6" height="6" fill="#7C3AED" class="tw" style="animation-delay:3.41s;animation-duration:3.2s"/>
+<rect x="57" y="17" width="6" height="6" fill="#A855F7" class="tw" style="animation-delay:1.9s;animation-duration:4.26s"/>
+<rect x="137" y="17" width="6" height="6" fill="#EC4899" class="tw" style="animation-delay:3.47s;animation-duration:5.03s"/>
+<rect x="177" y="17" width="6" height="6" fill="#C084FC" class="tw" style="animation-delay:2.72s;animation-duration:4.46s"/>
+<rect x="217" y="17" width="6" height="6" fill="#7C3AED" class="tw" style="animation-delay:2.57s;animation-duration:3.76s"/>
+<rect x="257" y="57" width="6" height="6" fill="#A855F7" class="tw" style="animation-delay:2.42s;animation-duration:3.7s"/>
+<rect x="297" y="17" width="6" height="6" fill="#EC4899" class="tw" style="animation-delay:3.24s;animation-duration:3.88s"/>
+<rect x="297" y="57" width="6" height="6" fill="#C084FC" class="tw" style="animation-delay:0.89s;animation-duration:2.95s"/>
+<rect x="337" y="17" width="6" height="6" fill="#7C3AED" class="tw" style="animation-delay:0.08s;animation-duration:4.13s"/>
+<rect x="337" y="57" width="6" height="6" fill="#A855F7" class="tw" style="animation-delay:2.12s;animation-duration:2.82s"/>
+<rect x="417" y="57" width="6" height="6" fill="#EC4899" class="tw" style="animation-delay:2.55s;animation-duration:2.94s"/>
+<rect x="457" y="57" width="6" height="6" fill="#C084FC" class="tw" style="animation-delay:0.24s;animation-duration:2.88s"/>
+<rect x="497" y="57" width="6" height="6" fill="#7C3AED" class="tw" style="animation-delay:1.19s;animation-duration:4.03s"/>
+<rect x="537" y="57" width="6" height="6" fill="#A855F7" class="tw" style="animation-delay:1.0s;animation-duration:3.96s"/>
+<rect x="577" y="57" width="6" height="6" fill="#EC4899" class="tw" style="animation-delay:1.94s;animation-duration:4.54s"/>
+<rect x="617" y="17" width="6" height="6" fill="#C084FC" class="tw" style="animation-delay:3.18s;animation-duration:4.18s"/>
+<rect x="777" y="17" width="6" height="6" fill="#7C3AED" class="tw" style="animation-delay:0.87s;animation-duration:3.94s"/>
+<rect x="777" y="57" width="6" height="6" fill="#A855F7" class="tw" style="animation-delay:1.47s;animation-duration:3.03s"/>
+<rect x="817" y="17" width="6" height="6" fill="#EC4899" class="tw" style="animation-delay:2.37s;animation-duration:3.65s"/>
+<rect x="857" y="17" width="6" height="6" fill="#C084FC" class="tw" style="animation-delay:1.48s;animation-duration:4.87s"/>
+<rect x="937" y="17" width="6" height="6" fill="#7C3AED" class="tw" style="animation-delay:0.2s;animation-duration:4.37s"/>
+<rect x="977" y="57" width="6" height="6" fill="#A855F7" class="tw" style="animation-delay:2.33s;animation-duration:2.95s"/>
+</g>
+<defs><linearGradient id="sg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED" stop-opacity="0"/><stop offset="0.5" stop-color="#EC4899" stop-opacity="0.55"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient></defs><rect x="0" y="-8" width="1000" height="4" fill="url(#sg2)"><animate attributeName="y" values="-8;94" dur="4.5s" repeatCount="indefinite"/></rect>
+<text x="500" y="56" text-anchor="middle" font-family="Menlo,Consolas,monospace" font-size="12" letter-spacing="5" fill="#6e7681">&gt;_ BUILDING AGENTS &#183; PRODUCTS &#183; OPEN SOURCE</text>
+</svg>
